@@ -215,10 +215,10 @@ Designed an interactive Power BI dashboard to visualize customer purchasing beha
 customer-behavior-analysis/
 │
 ├── data/
-│   └── customer_shopping.csv
+│   └── customer_shopping_behavior.csv
 │
 ├── notebooks/
-│   └── customer_behavior_analysis.ipynb
+│   └── Customer_Shopping_Behavior_Analysis.ipynb
 │
 ├── sql/
 │   └── customer_behavior_sql_queries.sql
@@ -252,7 +252,7 @@ git clone https://github.com/ashnak7994/customer-behavior-analysis.git
 3. Create a PostgreSQL database.
 4. Import the cleaned dataset into PostgreSQL.
 5. Execute the SQL queries available in the **sql** folder.
-6. Open the **Customer_Behavior.pbix** file using Power BI Desktop to explore the interactive dashboard.
+6. Open the **Customer_Behavior_Dashboard.pbix** file using Power BI Desktop to explore the interactive dashboard.
 
 ---
 
