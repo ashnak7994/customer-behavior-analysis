@@ -24,6 +24,18 @@ The project follows the complete data analytics lifecycle, including:
 The objective is to identify customer purchasing patterns, product preferences, revenue trends, and customer segments to support data-driven business decisions.
 
 ---
+# 🎯 Business Problem
+
+A retail company wants to better understand customer shopping behavior to improve business performance. The company needs answers to questions such as:
+
+- Which product categories generate the highest revenue?
+- Which customer age groups contribute the most sales?
+- What percentage of customers are subscribers?
+- Which shipping methods are most popular?
+- How do customer reviews vary across products?
+- What insights can help improve customer engagement and sales?
+
+By analyzing customer purchase data, the business can make informed decisions on marketing strategies, inventory planning, and customer retention.
 
 # 📂 Dataset
 
